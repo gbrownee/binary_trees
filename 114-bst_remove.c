@@ -52,3 +52,4 @@ bst_t *bst_min_val(bst_t *root)
 		min = min->left;
 
 	return (min);
+}
