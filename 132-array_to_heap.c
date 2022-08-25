@@ -17,3 +17,4 @@ heap_t *array_to_heap(int *array, size_t size)
 		heap_insert(&root, array[i]);
 
 	return (root);
+}
