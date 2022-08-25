@@ -1,1 +1,1 @@
-# binary_trees
+Repository for Binary trees tasks
